@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">23 anos<br>Gerente Ecommerce<br>Desenvolvedor WordPress e marketing digital a 2.3 anos .<br><br>Estudante de Analise e Desenvolvimento de Sistemas pela Facens<br><br>- 🔭Java & Spring Developer<br>- 📚 Estudo sobre Software Engineering, Systems Architecture e design patterns<br>- ⚡ Entusiasta Game Dev</p>
+<p align="left">Gerente Ecommerce<br>Formado em Analise e Desenvolvimento de Sistemas<br>Desenvolvedor WordPress e marketing digital a 3 anos .<br><br>Estudante de Analise e Desenvolvimento de Sistemas pela Facens<br><br>- 🔭Java & Spring Developer<br>- 📚 Estudo sobre Software Engineering, Systems Architecture e design patterns<br>- ⚡ Entusiasta Game Dev</p>
 
 ###
 
